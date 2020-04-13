@@ -97,12 +97,6 @@ module.exports = {
         else{
         logger(`Bot Prefix Set to:${config.bot_prefix}`,"info")
         }
-        if(config.youtube_token == ""){
-        logger("No youtube Token Was Found!!","error")
-        }
-        else{
-        logger("Found Youtube Token","info")
-        }
         if(config.rethink_enabled != "true"){
         logger("Rethink-Database Not Enabled","error")
         }
