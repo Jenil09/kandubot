@@ -1,0 +1,14 @@
+
+{
+    "config_enabled":"false",
+    "bot_name":"",
+    "discod_token":"",
+    "bot_prefix":"",
+    "levelup": "",
+    "Admin_ID":"",
+    "rethink_enabled":"false",
+    "rethink_host":"",
+    "rethink_port":"",
+    "rethinkdb_dbname":"",
+    "starting_money": ""
+}
