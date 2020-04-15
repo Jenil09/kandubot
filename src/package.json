@@ -2,7 +2,7 @@
   "name": "kandubot",
   "version": "2.5.0",
   "description": "A Side Project by Jenil01.gif",
-  "main": "main.js",
+  "main": "launch.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
