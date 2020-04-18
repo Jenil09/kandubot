@@ -5,6 +5,7 @@
     "discod_token":"",
     "bot_prefix":"",
     "levelup": "",
+    "bot_status":"",
     "Admin_ID":"",
     "rethink_enabled":"false",
     "rethink_host":"",

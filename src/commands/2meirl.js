@@ -14,7 +14,7 @@ module.exports.run = async (bot, message, args) =>{
         .setDescription("Posted by: " + allowed[randomnumber].data.author)
         .setImage(allowed[randomnumber].data.url)
         .addField("Other info:", "Up votes: " + allowed[randomnumber].data.ups + " / Comments: " + allowed[randomnumber].data.num_comments)
-        .setFooter("Memes provided by r/nsfw")
+        .setFooter("Memes provided by r/2meirl4meirl")
         message.channel.send(embed)
     } catch (err) {
         return console.log(err);

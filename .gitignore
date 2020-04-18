@@ -2,4 +2,6 @@
 /src/logs
 /src/old
 /src/Config.json
+/src/img
+/src/commands/*.js
 *.log

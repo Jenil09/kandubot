@@ -11,9 +11,12 @@
   "dependencies": {
     "cli-spinner": "^0.2.10",
     "colors": "^1.4.0",
+    "common-tags": "^1.8.0",
     "discord.js": "^12.1.1",
+    "node-fetch": "^2.6.0",
     "nodemon": "^2.0.3",
     "opusscript": "0.0.7",
+    "request": "^2.88.2",
     "rethinkdb": "^2.4.2",
     "rethinkdbdash": "^2.3.31",
     "simple-node-logger": "^18.12.24",
