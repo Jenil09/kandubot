@@ -3,3 +3,4 @@
 /src/old
 /src/Config.json
 *.log
+/src/commands/*.js
